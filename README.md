@@ -25,8 +25,6 @@ I would love to chat, connect with me on [LinkedIn](https://www.linkedin.com/in/
 ## GitHub Stats 🌟
 <div align="center" >
   
-  ![](https://github-readme-stats.vercel.app/api?username=benson-fm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  <br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=benson-fm&theme=dark&hide_border=false)<br/>
   <br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benson-fm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
