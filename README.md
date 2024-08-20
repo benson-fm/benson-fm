@@ -1,6 +1,6 @@
 ## Hi there, I'm Benson!👋
 
-I'm a full-stack developer working as a Project Intern at the UCI medical school specifically tasked with data management. During my free time, I love to go on hikes! ⛰️
+I'm a full-stack developer working as a Project Intern at the UCI medical school specifically tasked with data management. During my free time, I love to go on hikes and play video games! ⛰️
 
 I would love to chat, connect with me on [LinkedIn](https://www.linkedin.com/in/benson-manzano/) or [email me](bensonfmanzano@gmail.com)!
 
