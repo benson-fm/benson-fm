@@ -7,6 +7,7 @@ I would love to chat, connect with me on [LinkedIn](https://www.linkedin.com/in/
 ## Current Projects 🖥️
 - ⚛️ [Fusion Website](https://github.com/benson-fm/fusite) - Revamping the FUSION website with a modern tech stack
 - 🍴 [PetrCalendar](https://github.com/benson-fm/PetrCalendar) - Streamlining calendar scheduling for Petr Runs
+- 💰 [stockwise](https://github.com/benson-fm/stockwise/) - AI Driven Sentiment Analysis on Stocks powered by Google Gemini
 
 ## Techstack 🦾
 <p align="left">
