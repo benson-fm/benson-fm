@@ -1,6 +1,6 @@
 ## Hi there, I'm Benson!👋
 
-I'm a full-stack developer working as a Project Intern at the UCI medical school specifically tasked with data management. During my free time, I love to go on hikes and play video games! ⛰️
+I'm a full-stack developer who previously worked as a Project Intern at the UCI medical school specifically tasked with data management. I love to go on hikes and play video games in my free time! ⛰️
 
 I would love to chat, connect with me on [LinkedIn](https://www.linkedin.com/in/benson-manzano/) or [email me](bensonfmanzano@gmail.com)!
 
@@ -8,6 +8,10 @@ I would love to chat, connect with me on [LinkedIn](https://www.linkedin.com/in/
 - ⚛️ [Fusion Website](https://github.com/benson-fm/fusite) - Revamping the FUSION website with a modern tech stack
 - 🍴 [PetrCalendar](https://github.com/benson-fm/PetrCalendar) - Streamlining calendar scheduling for Petr Runs
 - 💰 [stockwise](https://github.com/benson-fm/stockwise/) - AI Driven Sentiment Analysis on Stocks powered by Google Gemini
+
+I also do small projects for general meetings and education purposes for Filipinx Scientists and Engineers in an Organized Network (FUSION), check them out here!
+- 😸 [Emoji Board](https://github.com/benson-fm/Emoji-Board) - A creative output of emoji aesthetics designed to help people learn about web dev!
+- 🎤 [Gimme5](https://github.com/benson-fm/Gimme5) - A game board inspired by Family Feud to assist in one of our Filipino cultural activitities
 
 ## Techstack 🦾
 <p align="center">
@@ -37,4 +41,4 @@ I would love to chat, connect with me on [LinkedIn](https://www.linkedin.com/in/
   [![](https://visitcount.itsvg.in/api?id=benson-fm&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-[Click Me!](https://www.bensonmanzano.com/)
+[🌙Click Me!](https://www.bensonmanzano.com/)
