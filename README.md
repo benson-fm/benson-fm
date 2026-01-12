@@ -1,10 +1,10 @@
 ## Hi there, I'm Benson!👋
 
-I'm a full-stack developer who previously worked as a Project Intern at the UCI medical school specifically tasked with data management. I love to go on hikes and play video games in my free time! ⛰️
+I'm an aspiring software engineer interested in pursuing a career in cloud and reliability! I love to go on hikes and play the piano in my free time! ⛰️
 
 I would love to chat, connect with me on [LinkedIn](https://www.linkedin.com/in/benson-manzano/) or [email me](bensonfmanzano@gmail.com)!
 
-## Current Projects 🖥️
+## Past Projects 🖥️
 - ⚛️ [Fusion Website](https://github.com/benson-fm/fusite) - Revamping the FUSION website with a modern tech stack
 - 🍴 [PetrCalendar](https://github.com/benson-fm/PetrCalendar) - Streamlining calendar scheduling for Petr Runs
 - 💰 [stockwise](https://github.com/benson-fm/stockwise/) - AI Driven Sentiment Analysis on Stocks powered by Google Gemini
